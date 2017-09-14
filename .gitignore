@@ -21,7 +21,6 @@ temp*
 *.idx
 *.nav
 *.out
-*.gz
 *.toc
 *.snm
 *.vrb
@@ -30,24 +29,3 @@ temp*
 *.project
 # misc:
 .DS_Store
-Trash
-# doconce:
-.*_html_file_collection
-
-*.copyright
-
-*.copyright
-
-*.exerinfo
-
-doc/Projects/2016/Project2/.out.copyright
-
-doc/Projects/2016/Project2/.project2_2016.copyright
-
-*.exerinfo
-
-*.dlog
-
-
-
-*.user
